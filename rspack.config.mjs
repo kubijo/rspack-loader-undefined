@@ -29,6 +29,12 @@ const config = {
   experiments: {
     css: true,
   },
+
+  module: {
+    rules: [
+        undefined,
+    ],
+  },
 };
 
 export default config;
